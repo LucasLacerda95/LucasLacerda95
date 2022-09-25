@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Lucas</h1>
-<h3 align="center">Sou estudante na área de desenvolvimento e estou focado em evoluir no ecossistema .NET e em seus Frameworks.</h3>
+<h3 align="center">Sou estudante na área de desenvolvimento e estou focado em evoluir no ecossistema .NET</h3>
 
 - 🌱Atualmente estou aprendendo **WPF, ASP.NET, Xamarin**
 
