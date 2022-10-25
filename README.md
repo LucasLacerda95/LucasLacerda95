@@ -1,9 +1,9 @@
-<h1 align="center">Olá 👋, sou Lucas</h1>
-<h3 align="center">Sou estudante na área de desenvolvimento e estou focado em evoluir no ecossistema .NET</h3>
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">I'm a student in the development area and I'm focused on evolving in the ecosystem .NET</h3>
 
-- 🌱Atualmente estou aprendendo **WPF, ASP.NET, Xamarin, Dapper, Entity Framework**
+- 🌱I'm currently learning **ASP.NET, Dapper, Entity Framework**
 
-- 📫 Como chegar até mim **lucaslacerda561@gmail.com**
+- 📫 how to reach me **lucaslacerda561@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
